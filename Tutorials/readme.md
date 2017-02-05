@@ -41,6 +41,10 @@ http://codeschool.github.io/WatchUsBuild-React/demo/#/blog?_k=o2zepg
 https://github.com/codeschool/WatchUsBuild-React
 
 
+https://www.codeschool.com/courses/powering-up-with-react
+
+
+
 
 
 
